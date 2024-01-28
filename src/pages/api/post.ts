@@ -26,7 +26,7 @@ export default async function handler(
   }
 
   const randomImageNumber = Math.floor(Math.random() * 156) + 1;
-  const imageUrl = `https://tarot-frame.vercel.app/meta${randomImageNumber}.png`;
+  const imageUrl = `https://tarot-frame.vercel.app/${randomImageNumber}.png`;
 
   const html = generateFarcasterFrame(imageUrl, signedMessage.untrustedData.buttonIndex);
 
