@@ -4,7 +4,6 @@ export default function Home() {
   // Generate a random number between 1 and 100 (you can adjust the range as needed)
   const randomImageNumber = Math.floor(Math.random() * 156) + 1;
 
-export default function Home() {
   return (
     <>
       <Head>
