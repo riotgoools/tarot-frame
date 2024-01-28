@@ -1,8 +1,14 @@
 import Head from 'next/head'
+import { useEffect, useState } from 'react';
 
 export default function Home() {
-  // Generate a random number between 1 and 100 (you can adjust the range as needed)
-  const randomImageNumber = Math.floor(Math.random() * 156) + 1;
+  const [randomImageNumber, setRandomImageNumber] = useState(1);
+
+  useEffect(() => {
+    // Generate a random number between 1 and 100 (you can adjust the range as needed)
+    const randomNumber = Math.floor(Math.random() * 100) + 1;
+    setRandomImageNumber(randomNumber);
+  }, []); // Run this effect only once when the component mounts
 
   return (
     <>
