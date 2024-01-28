@@ -1,5 +1,4 @@
 import type { NextApiRequest, NextApiResponse } from 'next'
-
 import { BASE_URL, generateFarcasterFrame } from '@/utils'
 
 export default async function handler(
@@ -26,15 +25,11 @@ export default async function handler(
     }
   }
 
-  const choice = signedMessage.untrustedData.buttonIndex
+  const randomImageNumber = Math.floor(Math.random() * 156) + 1;
+  const imageUrl = `https://tarot-frame.vercel.app/meta${randomImageNumber}.png`;
 
-  let html: string = ''
+  const html = generateFarcasterFrame(imageUrl, signedMessage.untrustedData.buttonIndex);
 
-  if (choice === 1) {
-    html = generateFarcasterFrame('https://elle-longcasting-frame.vercel.app/meta02.png', choice)
-  } else {
-    html = generateFarcasterFrame('https://elle-longcasting-frame.vercel.app/meta01.png', choice)
-  }
-
-  return res.status(200).setHeader('Content-Type', 'text/html').send(html)
+  return res.status(200).setHeader('Content-Type', 'text/html').send(html);
 }
+

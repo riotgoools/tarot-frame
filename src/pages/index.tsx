@@ -1,28 +1,20 @@
-import Head from 'next/head';
-import Script from 'next/script';
-import { useEffect, useState } from 'react';
+import Head from 'next/head'
 
 export default function Home() {
-  const [randomImageNumber, setRandomImageNumber] = useState(1);
+  // Generate a random number between 1 and 100 (you can adjust the range as needed)
+  const randomImageNumber = Math.floor(Math.random() * 156) + 1;
 
-  useEffect(() => {
-    const randomNumber = Math.floor(Math.random() * 156) + 1;
-    setRandomImageNumber(randomNumber);
-  }, []); 
-
+export default function Home() {
   return (
     <>
       <Head>
         <meta property="og:title" content="Tarot Frame" />
+        <meta property="og:image" content="https://tarot-frame.vercel.app/1.png" />
         <meta property="fc:frame" content="vNext" />
+        <meta property="fc:frame:image" content="https://tarot-frame.vercel.app/1.png" />
         <meta property="fc:frame:button:1" content="Pull" />
+        <meta property="fc:frame:post_url" content="https://tarot-frame.vercel.app/api/post" />
       </Head>
-      <Script id="dynamic-meta">
-        {`
-          document.head.querySelector('meta[property="og:image"]').content = 'https://tarot-frame.vercel.app/${randomImageNumber}.png';
-          document.head.querySelector('meta[property="fc:frame:image"]').content = 'https://tarot-frame.vercel.app/${randomImageNumber}.png';
-        `}
-      </Script>
     </>
-  );
+  )
 }
