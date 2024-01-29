@@ -1,5 +1,13 @@
 /* styles.module.css */
 
+.container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: fit-content;
+      margin: 0;
+    }
+
     .tarot-container {
       display: flex;
       flex-wrap: wrap;
