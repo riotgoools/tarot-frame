@@ -22,7 +22,7 @@ export default function Home() {
     </div>
     <div className="tarot-card">
       <div className="card-image">
-        <img src="cards/0.png" alt="Tarot Card">
+        <img src="cards/0.png" alt="Tarot Card" />
       </div>
       <div className="card-keywords">
         <div>The Fool</div><br />
@@ -32,7 +32,7 @@ export default function Home() {
     </div>  
     <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/1.png" alt="Tarot Card">
+          <img src="cards/1.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The Magician</div><br />
@@ -42,7 +42,7 @@ export default function Home() {
       </div>    
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/2.png" alt="Tarot Card">
+          <img src="cards/2.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The High Priestess</div><br />
@@ -53,7 +53,7 @@ export default function Home() {
       
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/3.png" alt="Tarot Card">
+          <img src="cards/3.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The Empress</div><br />
@@ -63,7 +63,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/4.png" alt="Tarot Card">
+          <img src="cards/4.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The Emperor</div><br />
@@ -73,7 +73,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/5.png" alt="Tarot Card">
+          <img src="cards/5.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The Hierophant</div><br />
@@ -83,7 +83,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/6.png" alt="Tarot Card">
+          <img src="cards/6.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The Lovers</div><br />
@@ -93,7 +93,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/7.png" alt="Tarot Card">
+          <img src="cards/7.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The Chariot</div><br />
@@ -103,7 +103,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/8.png" alt="Tarot Card">
+          <img src="cards/8.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Strength</div><br />
@@ -113,7 +113,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/9.png" alt="Tarot Card">
+          <img src="cards/9.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The Hermit</div><br />
@@ -123,7 +123,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/10.png" alt="Tarot Card">
+          <img src="cards/10.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Wheel of Fortune</div><br />
@@ -133,7 +133,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/11.png" alt="Tarot Card">
+          <img src="cards/11.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Justice</div><br />
@@ -143,7 +143,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/12.png" alt="Tarot Card">
+          <img src="cards/12.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The Hanged Man</div><br />
@@ -153,7 +153,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/13.png" alt="Tarot Card">
+          <img src="cards/13.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Death</div><br />
@@ -163,7 +163,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/14.png" alt="Tarot Card">
+          <img src="cards/14.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Temperance</div><br />
@@ -173,7 +173,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/15.png" alt="Tarot Card">
+          <img src="cards/15.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The Devil</div><br />
@@ -183,7 +183,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/16.png" alt="Tarot Card">
+          <img src="cards/16.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The Tower</div><br />
@@ -193,7 +193,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/17.png" alt="Tarot Card">
+          <img src="cards/17.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The Star</div><br />
@@ -203,7 +203,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/18.png" alt="Tarot Card">
+          <img src="cards/18.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The Moon</div><br />
@@ -213,7 +213,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/19.png" alt="Tarot Card">
+          <img src="cards/19.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The Sun</div><br />
@@ -223,7 +223,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/20.png" alt="Tarot Card">
+          <img src="cards/20.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Judgment</div><br />
@@ -233,7 +233,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/21.png" alt="Tarot Card">
+          <img src="cards/21.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>The World</div><br />
@@ -243,7 +243,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/22.png" alt="Tarot Card">
+          <img src="cards/22.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Ace of Cups</div><br />
@@ -253,7 +253,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/23.png" alt="Tarot Card">
+          <img src="cards/23.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Two of Cups</div><br />
@@ -263,7 +263,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/24.png" alt="Tarot Card">
+          <img src="cards/24.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Three of Cups</div><br />
@@ -273,7 +273,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/25.png" alt="Tarot Card">
+          <img src="cards/25.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Four of Cups</div><br />
@@ -283,7 +283,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/26.png" alt="Tarot Card">
+          <img src="cards/26.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Five of Cups</div><br />
@@ -293,7 +293,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/27.png" alt="Tarot Card">
+          <img src="cards/27.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Six of Cups</div><br />
@@ -303,7 +303,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/28.png" alt="Tarot Card">
+          <img src="cards/28.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Seven of Cups</div><br />
@@ -313,7 +313,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/29.png" alt="Tarot Card">
+          <img src="cards/29.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Eight of Cups</div><br />
@@ -323,7 +323,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/30.png" alt="Tarot Card">
+          <img src="cards/30.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Nine of Cups</div><br />
@@ -333,7 +333,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/31.png" alt="Tarot Card">
+          <img src="cards/31.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Ten of Cups</div><br />
@@ -343,7 +343,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/32.png" alt="Tarot Card">
+          <img src="cards/32.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Page of Cups</div><br />
@@ -353,7 +353,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/33.png" alt="Tarot Card">
+          <img src="cards/33.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Knight of Cups</div><br />
@@ -363,7 +363,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/34.png" alt="Tarot Card">
+          <img src="cards/34.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Queen of Cups</div><br />
@@ -373,7 +373,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/35.png" alt="Tarot Card">
+          <img src="cards/35.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>King of Cups</div><br />
@@ -383,7 +383,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/36.png" alt="Tarot Card">
+          <img src="cards/36.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Ace of Pentacles</div><br />
@@ -393,7 +393,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/37.png" alt="Tarot Card">
+          <img src="cards/37.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Two of Pentacles</div><br />
@@ -403,7 +403,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/38.png" alt="Tarot Card">
+          <img src="cards/38.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Three of Pentacles</div><br />
@@ -413,7 +413,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/39.png" alt="Tarot Card">
+          <img src="cards/39.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Four of Pentacles</div><br />
@@ -423,7 +423,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/40.png" alt="Tarot Card">
+          <img src="cards/40.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Five of Pentacles</div><br />
@@ -433,7 +433,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/41.png" alt="Tarot Card">
+          <img src="cards/41.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Six of Pentacles</div><br />
@@ -443,7 +443,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/42.png" alt="Tarot Card">
+          <img src="cards/42.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Seven of Pentacles</div><br />
@@ -453,7 +453,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/43.png" alt="Tarot Card">
+          <img src="cards/43.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Eight of Pentacles</div><br />
@@ -463,7 +463,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/44.png" alt="Tarot Card">
+          <img src="cards/44.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Nine of Pentacles</div><br />
@@ -473,7 +473,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/45.png" alt="Tarot Card">
+          <img src="cards/45.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Ten of Pentacles</div><br />
@@ -483,7 +483,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/46.png" alt="Tarot Card">
+          <img src="cards/46.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Page of Pentacles</div><br />
@@ -493,7 +493,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/47.png" alt="Tarot Card">
+          <img src="cards/47.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Knight of Pentacles</div><br />
@@ -503,7 +503,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/48.png" alt="Tarot Card">
+          <img src="cards/48.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Queen of Pentacles</div><br />
@@ -513,7 +513,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/49.png" alt="Tarot Card">
+          <img src="cards/49.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>King of Pentacles</div><br />
@@ -523,7 +523,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/50.png" alt="Tarot Card">
+          <img src="cards/50.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Ace of Swords</div><br />
@@ -533,7 +533,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/51.png" alt="Tarot Card">
+          <img src="cards/51.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Two of Swords</div><br />
@@ -543,7 +543,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/52.png" alt="Tarot Card">
+          <img src="cards/52.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Three of Swords</div><br />
@@ -553,7 +553,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/53.png" alt="Tarot Card">
+          <img src="cards/53.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Four of Swords</div><br />
@@ -563,7 +563,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/54.png" alt="Tarot Card">
+          <img src="cards/54.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Five of Swords</div><br />
@@ -573,7 +573,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/55.png" alt="Tarot Card">
+          <img src="cards/55.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Six of Swords</div><br />
@@ -583,7 +583,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/56.png" alt="Tarot Card">
+          <img src="cards/56.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Seven of Swords</div><br />
@@ -593,7 +593,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/57.png" alt="Tarot Card">
+          <img src="cards/57.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Eight of Swords</div><br />
@@ -603,7 +603,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/58.png" alt="Tarot Card">
+          <img src="cards/58.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Nine of Swords</div><br />
@@ -613,7 +613,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/59.png" alt="Tarot Card">
+          <img src="cards/59.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Ten of Swords</div><br />
@@ -623,7 +623,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/60.png" alt="Tarot Card">
+          <img src="cards/60.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Page of Swords</div><br />
@@ -633,7 +633,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/61.png" alt="Tarot Card">
+          <img src="cards/61.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Knight of Swords</div><br />
@@ -643,7 +643,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/62.png" alt="Tarot Card">
+          <img src="cards/62.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Queen of Swords</div><br />
@@ -653,7 +653,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/63.png" alt="Tarot Card">
+          <img src="cards/63.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>King of Swords</div><br />
@@ -663,7 +663,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/64.png" alt="Tarot Card">
+          <img src="cards/64.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Ace of Wands</div><br />
@@ -673,7 +673,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/65.png" alt="Tarot Card">
+          <img src="cards/65.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Two of Wands</div><br />
@@ -683,7 +683,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/66.png" alt="Tarot Card">
+          <img src="cards/66.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Three of Wands</div><br />
@@ -693,7 +693,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/67.png" alt="Tarot Card">
+          <img src="cards/67.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Four of Wands</div><br />
@@ -703,7 +703,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/68.png" alt="Tarot Card">
+          <img src="cards/68.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Five of Wands</div><br />
@@ -713,7 +713,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/69.png" alt="Tarot Card">
+          <img src="cards/69.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Six of Wands</div><br />
@@ -723,7 +723,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/70.png" alt="Tarot Card">
+          <img src="cards/70.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Seven of Wands</div><br />
@@ -733,7 +733,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/71.png" alt="Tarot Card">
+          <img src="cards/71.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Eight of Wands</div><br />
@@ -743,7 +743,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/72.png" alt="Tarot Card">
+          <img src="cards/72.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Nine of Wands</div><br />
@@ -753,7 +753,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/73.png" alt="Tarot Card">
+          <img src="cards/73.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Ten of Wands</div><br />
@@ -763,7 +763,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/74.png" alt="Tarot Card">
+          <img src="cards/74.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Page of Wands</div><br />
@@ -773,7 +773,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/75.png" alt="Tarot Card">
+          <img src="cards/75.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Knight of Wands</div><br />
@@ -783,7 +783,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/76.png" alt="Tarot Card">
+          <img src="cards/76.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>Queen of Wands</div><br />
@@ -793,7 +793,7 @@ export default function Home() {
       </div>
       <div className="tarot-card">
         <div className="card-image">
-          <img src="cards/77.png" alt="Tarot Card">
+          <img src="cards/77.png" alt="Tarot Card" />
         </div>
         <div className="card-keywords">
           <div>King of Wands</div><br />
