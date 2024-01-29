@@ -12,7 +12,7 @@
       display: flex;
       flex-wrap: wrap;
       justify-content: space-around;
-      max-width: 80%;
+      max-width: 100%;
     }
 
     .tarot-card {
