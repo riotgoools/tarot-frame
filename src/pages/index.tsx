@@ -17,7 +17,7 @@ export default function Home() {
       <div className={styles['tarot-container']}>
      <div className={styles['tarot-card']}>
         Single Card Reading<br /><br />1. Focus and Draw:
-        Concentrate on your question, shuffle, and draw a single card.<br /><br />
+        Concentrate on your question and draw a single card.<br /><br />
         2. Observe and Relate:
         Note card imagery and keywords, connect them to your question, and trust your instincts.
     </div>
