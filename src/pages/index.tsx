@@ -13,7 +13,7 @@ export default function Home() {
         <meta property="fc:frame:post_url" content="https://elle-tarot-frame.vercel.app/api/post" />
         
       </Head>
-      <div className={styles.tag}>by <a href="https://warpcast.com/riotgoools">elle</a>, repo on <a href="https://github.com/riotgoools/tarot-frame">github</a></div>
+      <div className={styles.tag}>by&nbsp;<a href="https://warpcast.com/riotgoools">elle</a>, repo on&nbsp;<a href="https://github.com/riotgoools/tarot-frame">github</a></div>
       <div className={styles.container}>
       <div className={styles['tarot-container']}>
      <div className={styles['tarot-card']}>

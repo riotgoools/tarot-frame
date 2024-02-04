@@ -45,10 +45,16 @@
     }
 
     .tag {
-      position:fixed;
-      bottom:50px;
-      right:50px;
-      background-color: lavender;
-      width:150px;
-      height:30px;
+      position: fixed;
+      bottom: 50px;
+      right: 50px;
+      background-color: #fff;
+      width: 150px;
+      height: 15px;
+      padding: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 10px;
+      border: 1px #ccc solid;
     }
