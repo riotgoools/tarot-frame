@@ -43,3 +43,12 @@
       text-align: left;
       padding-left:20px;
     }
+
+    .tag {
+      position:fixed;
+      bottom:50px;
+      right:50px;
+      background-color: lavender;
+      width:150px;
+      height:30px;
+    }

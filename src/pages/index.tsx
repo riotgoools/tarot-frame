@@ -13,14 +13,14 @@ export default function Home() {
         <meta property="fc:frame:post_url" content="https://elle-tarot-frame.vercel.app/api/post" />
         
       </Head>
+      <div className={styles.tag}>by <a href="https://warpcast.com/riotgoools">elle</a>, repo on <a href="https://github.com/riotgoools/tarot-frame">github</a></div>
       <div className={styles.container}>
       <div className={styles['tarot-container']}>
      <div className={styles['tarot-card']}>
         Single Card Reading<br /><br />1. Focus and Draw:
         Concentrate on your question and draw a single card.<br /><br />
         2. Observe and Relate:
-        Note card imagery & keywords, connect them to your question, trust your instincts.<br /><br />
-        by <a href="https://warpcast.com/riotgoools">elle</a>, <a href="https://github.com/riotgoools/tarot-frame">github</a>
+        Note card imagery & keywords, connect them to your question, trust your instincts.
     </div>
     <div className={styles['tarot-card']}>
       <div className={styles['card-image']}>
